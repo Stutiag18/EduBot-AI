@@ -1,0 +1,1 @@
+EduBot is a smart solution designed to assist HR professionals in streamlining the resume shortlisting process based on their specific preferences. The bot leverages keyword searching to efficiently filter resumes, ensuring that only the most relevant profiles are shortlisted. This automation significantly reduces the time and effort required for manual resume screening.
